@@ -17,4 +17,4 @@ Choices Analysis:
 3. **Incorrect** - NAT Instance does PAT function and this is enough to do the job required
 4. **Correct** - This is one possible reason (besides checking the Security Groups and NACLs)
 #
-## [goback...](./vpc-questions.md)
+## [goback...](./index.md)

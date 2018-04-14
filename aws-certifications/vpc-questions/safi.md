@@ -20,4 +20,4 @@ _Choice Analysis_:
 - **Incorrect** - Security groups alwasy allow outbound traffic by default
 - **Incorrect** - Default NACL would apply in this case, which allows all inbound/outbound
 #
-## [goback...](./vpc-questions.md)
+## [goback...](./index.md)

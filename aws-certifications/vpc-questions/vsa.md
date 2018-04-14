@@ -15,4 +15,4 @@ Choices Analysis:
 3. **Incorrect** - NAT instances are not for Internet Initiated connections
 4. **Incorrect** - The VPC has not been configured with a public subnet for Internet Access
 #
-## [goback...](./vpc-questions.md)
+## [goback...](./index.md)

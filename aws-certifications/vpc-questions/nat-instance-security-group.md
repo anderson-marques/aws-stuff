@@ -23,4 +23,4 @@ _Quick refresher:_
 - Internet destinations when are not listed has to have 0.0.0.0/0 for all internet destinations
 - NAT instances serves the private subnet's instances and not the public subnet's instances
 #
-## [goback...](./vpc-questions.md)
+## [goback...](./index.md)

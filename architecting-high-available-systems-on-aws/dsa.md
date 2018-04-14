@@ -65,3 +65,5 @@ A distributed system is a software system in which components located on network
 - Databases
 - Deployment and Management
 - Aplication Services
+#
+## [Goback...](./index.md)

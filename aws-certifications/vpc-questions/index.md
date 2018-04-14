@@ -14,3 +14,10 @@
 - [How to allow traffic to the Internet](htattti.md)
 - [High Availability DX](had.md)
 - [Multi AZs DX Access](mada.md)
+- [DX, public and private VIFs](dppv.md)
+- [VPC Peering and VPN Connection](vpvc.md)
+- [VPN CloudHub - Seven locations](vcsl.md)
+- [VPN CloudHub - Twenty Locations](vctl.md)
+
+#
+## [goback...](../index.md)

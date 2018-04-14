@@ -21,4 +21,4 @@ _Choices Analysis_:
 3. **Incorrect** - You do not need a DX connection per AZ
 4. **Incorrect** - You can
 #
-## [goback...](./vpc-questions.md)
+## [goback...](./index.md)

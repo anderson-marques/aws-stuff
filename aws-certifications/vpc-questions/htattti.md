@@ -23,4 +23,4 @@ _Choice Analysis_:
             - The Internet Gateway must be attached to the VPC
             - Security group and NACL must allow the traffic as necessary
 #
-## [goback...](./vpc-questions.md)
+## [goback...](./index.md)

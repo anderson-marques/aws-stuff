@@ -25,4 +25,4 @@ _Quick refresher:_
 - Security groups have allow only rules, no **explicit deny rules**
 - A security group set of rules ends with an **implicit deny all**
 #
-## [goback...](./vpc-questions.md)
+## [goback...](./index.md)

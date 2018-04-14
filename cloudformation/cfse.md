@@ -1,0 +1,74 @@
+## CloudFormation Stack Example
+
+```json
+{
+"AWSTemplateFormatVersion": "2010-09-09",
+    "Description": "Development infrastructure",
+    "Parameters": {
+        "VPC":{
+            "Description": "A private virtual network",
+            "Type": "AWS::EC2::VPC::Id"
+        }
+    },
+    "Resources": {
+        
+        "IntranetNetwork": {
+          "Type": "AWS::EC2::VPC",
+          "Properties": {
+            "CidrBlock": "192.168.0.0/16",
+            "Tags": [{
+                "Key":"environment",
+                "Value":"development"
+            }]
+          }
+        },        
+
+        "SSHAccessOnly" : {
+          "Type" : "AWS::EC2::SecurityGroup",
+          "Properties" : {
+            "GroupDescription" : "Bastion hosts to manage the cluster",
+            "SecurityGroupIngress" : [{
+                "CidrIp":"0.0.0.0/0",
+                "FromPort": 22,
+                "IpProtocol": "tcp",
+                "ToPort": 22
+            }],
+            "VpcId" : {"Ref":"IntranetNetwork"},
+            "Tags" :  [ {
+                "Key":"environment", "Value": "development"
+            } ]
+          }
+        },
+                
+        "MyEC2Instance": {
+            "Type": "AWS::EC2::Instance",
+            "Properties": {
+                "KeyName": "MyEC2Instance-key",
+                "DisableApiTermination": "false",
+                "ImageId": "ami-bff32ccc",
+                "InstanceType": "t2.micro",
+                "Monitoring": "true",
+                "SecurityGroupIds" : [{"Ref":"SSHAccessOnly"}],
+                "Tags": [
+                    {
+                        "Key": "environment","Value": "development"
+                    }
+                ],
+                "UserData": {
+                    "Fn::Base64": {
+                        "Fn::Join": [
+                            "",
+                            [
+                                "#!/bin/bash -ex",
+                                "apt-get update"
+                            ]
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
+```
+#
+## [Goback...](../index.md)

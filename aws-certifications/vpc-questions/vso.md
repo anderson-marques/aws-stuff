@@ -22,4 +22,4 @@ _Choice Analysis_:
 - If you create one subnet equal in size to the VPC CIDR block, you will not be able to crete any other subnet in the VPC because any other one that belongs to the CIDR block will overlap with the first one
     - Solution - delte the one you created, and then carefully design and deploy your IP address scheme
 #
-## [goback...](./vpc-questions.md)
+## [goback...](./index.md)
