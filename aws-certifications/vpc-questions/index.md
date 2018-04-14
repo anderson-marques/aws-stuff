@@ -21,5 +21,7 @@
 - [Wizard VPC Deletion](vpc-deleting.md)
 - [VPC Route Table - Communication Between Subnets](./route-table.md)
 - [NAT Instance use as Proxy](./niup.md)
+- [VPC Peering](./vpcp.md)
+- [VPC Peering Between different accounts](./vpbda.md)
 #
 ## [goback...](../index.md)
