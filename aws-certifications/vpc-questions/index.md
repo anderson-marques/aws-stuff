@@ -25,5 +25,10 @@
 - [VPC Peering Between different accounts](./vpbda.md)
 - [VPC Subnets and multi-AZ](./vsma.md)
 - [Public Subnet Access from the Internet](./ceioi.md)
+- [Launching EC2 instances in a VPC](./v4q1.md)
+- [Deleting an IGW attached to a VPC](./v4q2.md)
+- [VPC subnets Characteristics](./v4q3.md)
+- [VPC subnets Design](./v4q4.md)
+
 #
 ## [goback...](../index.md)
