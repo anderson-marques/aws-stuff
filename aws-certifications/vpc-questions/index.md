@@ -23,5 +23,7 @@
 - [NAT Instance use as Proxy](./niup.md)
 - [VPC Peering](./vpcp.md)
 - [VPC Peering Between different accounts](./vpbda.md)
+- [VPC Subnets and multi-AZ](./vsma.md)
+- [Public Subnet Access from the Internet](./ceioi.md)
 #
 ## [goback...](../index.md)
