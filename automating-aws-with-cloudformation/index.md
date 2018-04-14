@@ -1,4 +1,4 @@
-# CloudFormation
+# Automating AWS with CloudFormation
 
 - [CloudFormation Stack Example](cfse.md)
 #

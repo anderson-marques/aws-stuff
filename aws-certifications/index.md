@@ -1,6 +1,4 @@
-# AWS Certifications
-
-## AWS Certified Solutions Architect Associated
+# AWS Certified Solutions Architect Associated
 
 - [VPC Questions](./vpc-questions/index.md)
 

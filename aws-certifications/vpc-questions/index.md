@@ -18,6 +18,8 @@
 - [VPC Peering and VPN Connection](vpvc.md)
 - [VPN CloudHub - Seven locations](vcsl.md)
 - [VPN CloudHub - Twenty Locations](vctl.md)
-
+- [Wizard VPC Deletion](vpc-deleting.md)
+- [VPC Route Table - Communication Between Subnets](./route-table.md)
+- [NAT Instance use as Proxy](./niup.md)
 #
 ## [goback...](../index.md)
