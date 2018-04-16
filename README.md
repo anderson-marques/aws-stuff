@@ -8,8 +8,10 @@
 
 ## Advanced
 
-## - [Architecting High Available Systems On AWS](./architecting-high-available-systems-on-aws/index.md)
+### - [Architecting High Available Systems On AWS](./architecting-high-available-systems-on-aws/index.md)
 
 ## Certifications
-## - [AWS Certified Solutions Architect](./aws-certifications/index.md)
 
+### - [AWS Certified Solutions Architect Associated](./aws-certifications/index.md)
+
+### - [AWS Certified Solutions Architect Professional](./aws-certified-solutions-architect-professional/index.md)
