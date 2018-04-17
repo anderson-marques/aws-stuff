@@ -12,6 +12,6 @@
 
 ## Certifications
 
-### - [AWS Certified Solutions Architect Associated](./aws-certifications/index.md)
+### - [AWS Certified Solutions Architect Associate](./aws-certified-solutions-architect-associate/index.md)
 
 ### - [AWS Certified Solutions Architect Professional](./aws-certified-solutions-architect-professional/index.md)

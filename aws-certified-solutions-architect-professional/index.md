@@ -2,5 +2,6 @@
 
 - [High Availability](./001.md)
 - [RTO & RPO](./002.md)
+- [Disaster Recovery Models](./003.md)
 
 ## [Goback...](../README.md)
