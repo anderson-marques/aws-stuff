@@ -13,5 +13,9 @@
 - [EBS Types](./007.md)
 - [EC2 - Block Device Mapping](./008.md)
 - [Steps to create an EC2 Instance](./009.md)
+- [EC2 - EBS Optimized Instance](./010.md)
+- [EC2 - Single Root I/O Virtualization (SR-I/OV)](./011.md)
+- [EC2 - Enhanced Networking](./012.md)
+- [EC2 - Placement Groups](./013.md)
 
 ## [Goback...](../index.md)
