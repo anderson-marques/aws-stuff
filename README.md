@@ -6,9 +6,14 @@
 
 ### - [Automating AWS with CloudFormation](./automating-aws-with-cloudformation/index.md)
 
+### - [AWS Kinesis Processing](./aws-kinesis-processing/index.md)
+
+
 ## Advanced
 
 ### - [Architecting High Available Systems On AWS](./architecting-high-available-systems-on-aws/index.md)
+
+### - [Deployment and Security](./deployment-security/index.md)
 
 ## Certifications
 
