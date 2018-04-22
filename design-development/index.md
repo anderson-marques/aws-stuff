@@ -8,5 +8,6 @@
 - [Route 53 Routing Policies](./006.md)
 - [API Gateway](./007.md)
 - [Messaging](./008.md)
+- [Communicating](./009.md)
 
 ## [Goback...](../README.md)
