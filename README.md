@@ -8,12 +8,14 @@
 
 ### - [AWS Kinesis Processing](./aws-kinesis-processing/index.md)
 
+### - [Design and Developing](./design-development/index.md)
+
+### - [Deployment and Security](./deployment-security/index.md)
 
 ## Advanced
 
 ### - [Architecting High Available Systems On AWS](./architecting-high-available-systems-on-aws/index.md)
 
-### - [Deployment and Security](./deployment-security/index.md)
 
 ## Certifications
 
