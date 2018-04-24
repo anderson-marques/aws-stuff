@@ -5,9 +5,10 @@
 - [Console, CLI and SDKs](./003.md)
 - [EC2 REST API](./004.md)
 - [Scalability and Elasticity](./005.md)
+- [Scaling Policies](./005b.md)
 - [Route 53 Routing Policies](./006.md)
 - [API Gateway](./007.md)
 - [Messaging](./008.md)
-- [Communicating](./009.md)
+- [Notifications](./009.md)
 
 ## [Goback...](../README.md)
