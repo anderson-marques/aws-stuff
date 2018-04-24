@@ -38,7 +38,7 @@
 - [EC2 Instance Userdata](./021.md)
 - [EC2 Migration](./022.md)
 
-## Security 
+## Security
 
 - [EC2 IAM Role](./023.md)
 

@@ -16,6 +16,8 @@
 
 ### - [Architecting High Available Systems On AWS](./architecting-high-available-systems-on-aws/index.md)
 
+### - [Continuous Delivery and Automation](./continuous-delivery-and-automation/index.md)
+
 
 ## Certifications
 
