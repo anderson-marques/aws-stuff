@@ -41,7 +41,6 @@
 ## Security
 
 - [EC2 IAM Role](./023.md)
-
-
+- [EC2 Bastion Hosts](./024.md)
 
 ## [Goback...](../index.md)
