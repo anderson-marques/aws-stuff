@@ -2,6 +2,8 @@
 
 ## Beginner
 
+### - [AWS Services Catalog](./aws-services/index.md)
+
 ## Intermediate
 
 ### - [Automating AWS with CloudFormation](./automating-aws-with-cloudformation/index.md)
