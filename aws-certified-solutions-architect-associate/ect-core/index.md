@@ -29,5 +29,6 @@
 - [EC2 IAM Role](./023.md)
 - [EC2 Bastion Hosts](./024.md)
 - [EC2 Purchasing Options](./025.md)
+- [EC2 ENI](./026.md)
 
 ## [Goback...](../index.md)
