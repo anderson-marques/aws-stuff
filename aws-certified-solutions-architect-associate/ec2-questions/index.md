@@ -4,6 +4,7 @@
 - [Enhanced Networking](./002.md)
 - [Block Device Mapping](./003.md)
 - [Placement Groups](./004.md)
-- [Instance Purchase Options](./005.md)
+- [Instance Purchase Options A](./005.md)
+- [Instance Purchase Options B](./006.md)
 
 ## [Goback...](../index.md)
