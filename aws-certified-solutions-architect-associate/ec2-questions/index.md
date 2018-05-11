@@ -10,6 +10,7 @@
 - [Troubleshooting](./008.md)
 - [Enhanced Networking](./009.md)
 - [Enhanced Networking - Instance Support](./010.md)
-- [Bootstraping](./011.md)
+- [Bootstraping A](./011.md)
+- [Bootstraping B](./012.md)
 
 ## [Goback...](../index.md)
