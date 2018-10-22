@@ -6,5 +6,6 @@
 - [Multi-Region with Route53](./004.md)
 - [Advanced Route53 Features](./005.md)
 - [Route53 Health Checks](./006.md)
+- [Self-Healing Capabilities](./007.md)
 
-## [Goback...](../README.md)d
+## [Goback...](../README.md)
